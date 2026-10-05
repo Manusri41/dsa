@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Manusri41/dsa/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Manusri41/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manusri41/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manusri41/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Manusri41/dsa/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Manusri41/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manusri41/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
@@ -45,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Manusri41/dsa/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manusri41/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
