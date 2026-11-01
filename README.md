@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manusri41/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Manusri41/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Manusri41/dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manusri41/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/Manusri41/dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
