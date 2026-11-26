@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manusri41/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manusri41/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manusri41/dsa/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Manusri41/dsa/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Manusri41/dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Manusri41/dsa/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Manusri41/dsa/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
